@@ -48,6 +48,7 @@ This project is an internal service for a company that helps employees decide wh
 3. Apply the database migrations:
 
     ```bash
+    docker-compose exec web python manage.py makemigrations
     docker-compose exec web python manage.py migrate
     ```
 
