@@ -106,17 +106,6 @@ Now use access token with each next request, or, for example, authorize with it 
 }
 ```
 
-### Upload menu 
-
-- `POST /menu/upload/`: Specify menu description and date
-
-```json
-{
-  "date": "2024-09-28",
-  "description": "Fish and beer"
-}
-```
-
 ### Get current day menu
 
 - `GET /menu/today/`: Get all available menus for today
