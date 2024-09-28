@@ -1,0 +1,10 @@
+[flake8]
+exclude =
+    .git,
+    __pycache__,
+    migrations,
+    env,
+    venv,
+    .venv,
+    node_modules
+ignore = E501, F401

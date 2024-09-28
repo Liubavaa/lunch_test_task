@@ -1,17 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="85c32424-8166-4b7c-81f0-b55e21016604" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lunch_decision/.flake8" beforeDir="false" afterPath="$PROJECT_DIR$/lunch_decision/.flake8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lunch_decision/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/lunch_decision/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lunch_decision/api/permissions.py" beforeDir="false" afterPath="$PROJECT_DIR$/lunch_decision/api/permissions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lunch_decision/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/lunch_decision/api/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lunch_decision/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/lunch_decision/api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lunch_decision/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/lunch_decision/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lunch_decision/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/lunch_decision/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lunch_decision/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lunch_decision/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Liubavaa/lunch_test_task.git",
+    "accountId": "7d7a95ee-8681-4315-9f3e-5d892e35512e"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -23,13 +49,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for api.tests.test_employee_registration.executor": "Run",
+    "Python tests.Python tests for restaurants.tests.test_employee_access_vote.executor": "Run",
+    "Python tests.Python tests for restaurants.tests.test_employee_registration.executor": "Run",
+    "Python tests.Python tests for restaurants.tests.test_restaurant_registration.executor": "Run",
+    "Python tests.Python tests for tests.test_employee_registration.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests for api.tests.test_employee_registration">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="inforce_test_task" />
       <option name="ENV_FILES" value="" />
@@ -53,6 +88,95 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for api.tests.test_employee_registration" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="inforce_test_task" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lunch_decision" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;api.tests.test_employee_registration&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for lunch_decision.api.tests.test_employee_access_vote" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="inforce_test_task" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lunch_decision" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;lunch_decision.api.tests.test_employee_access_vote&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for lunch_decision.api.tests.test_employee_registration" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="inforce_test_task" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lunch_decision/api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;lunch_decision.api.tests.test_employee_registration&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for lunch_decision.api.tests.test_employee_registration" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="inforce_test_task" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lunch_decision" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;lunch_decision.api.tests.test_employee_registration&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for lunch_decision.api.tests.test_restaurant_registration" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="inforce_test_task" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lunch_decision" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;lunch_decision.api.tests.test_restaurant_registration&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for api.tests.test_employee_registration" />
+        <item itemvalue="Python tests.Python tests for lunch_decision.api.tests.test_employee_access_vote" />
+        <item itemvalue="Python tests.Python tests for lunch_decision.api.tests.test_restaurant_registration" />
+        <item itemvalue="Python tests.Python tests for lunch_decision.api.tests.test_employee_registration" />
+        <item itemvalue="Python tests.Python tests for lunch_decision.api.tests.test_employee_registration" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -70,19 +194,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727431337236</updated>
-      <workItem from="1727431343136" duration="9000" />
+      <workItem from="1727431343136" duration="33941000" />
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/inforce_test_task$.coverage" NAME=" Coverage Results" MODIFIED="1727499488479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lunch_decision" />
   </component>
 </project>
