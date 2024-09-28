@@ -35,7 +35,7 @@ This project is an internal service for a company that helps employees decide wh
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/lunch-decision-service.git
+    git clone https://github.com/Liubavaa/lunch_test_task.git
     cd lunch_decision
     ```
 
